@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "name": "invoicer",
+  "builds": [
+    { "src": "index.html", "use": "@vercel/static" }
+  ]
+}
